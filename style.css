@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    
+  }
+
+  
+
+
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: blue;
+  padding-top: 10px;
+}
+
+h2{
+  color: blue;
+}
+
+span{
+  font-weight: bolder;
+  
+}
+
+
+
+
+
