@@ -18,6 +18,10 @@ h1{
   
 }
 
+a{
+  text-decoration: none;
+}
+
 .nome{
   color: brown;
   padding-bottom: 20px;
