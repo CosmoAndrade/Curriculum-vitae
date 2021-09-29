@@ -1,59 +1,27 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Roboto Mono', Courier, monospace
-    
-  }
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
 
-  
+body{
+    margin: 0px;
+    font-family: 'Fira Code', monospace;
+}
+p{
+    line-height: 2;
+    
+}
 
 
 h1{
-  font-family: 'Courier New', Courier, monospace;
-  text-align: center;
-  color: blue;
-  padding-top: 10px;
-
-  
-}
-
-a{
-  text-decoration: none;
-}
-
-.nome{
-  color: brown;
-  padding-bottom: 20px;
-  font-weight: bold;
-}
-
-.icone{
-  width: 30px;
-  float: left;
-  top: 30px;
+    text-align: center;
+    color: blue;
+    font-weight: 400;
 }
 
 img{
- width: 160px;
-  float:right;
-
-  
+    float: right;
+    border-radius: 50%;
 }
 
-
-
-
-h2{
-  color: blue;
+h3{
+    color: blue;
+    font-weight: 400;
 }
-
-span{
-  font-weight: bolder;
-  
-}
-
-
-
-
-
